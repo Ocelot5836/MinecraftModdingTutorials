@@ -1,5 +1,6 @@
 package com.ocelot.mod;
 
+import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.ocelot.mod.registry.Registry;
