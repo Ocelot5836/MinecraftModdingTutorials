@@ -5,7 +5,7 @@ import com.ocelot.mod.init.ModItems;
 import net.minecraft.item.Item;
 
 /**
- * <em><b>Copyright (c) 2018 The Starcraft Minecraft (SCMC) Mod Team.</b></em>
+ * <em><b>Copyright (c) 2018 Ocelot5836.</b></em>
  * 
  * <br>
  * </br>
